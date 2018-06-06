@@ -1,0 +1,199 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e4638245e984d5bcfcdb7834208810ea/AndroidManifest.xml:17:1-31:12
+MERGED from [:usbCameraCommon] /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraCommon/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:1-32:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/20e1cd157711cdda803b7437e7206692/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3284811a34c57d5c192004ec95ba04a0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/fc4184ef1561afb428c5e82b967a73ca/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f72facc9ba476bdc21345d3ecf92c7c2/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a1d12b80c68b9fd81bee8b7e4929c37c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c5437ce9b2de14f28e6dfb7a8db07f9c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a61a9e86081ce175d17b5bff698f306b/AndroidManifest.xml:17:1-31:12
+MERGED from [:libuvccamera] /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/libuvccamera/build/intermediates/manifests/full/debug/AndroidManifest.xml:24:1-33:12
+MERGED from [com.serenegiant:common:1.5.20] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/common-1.5.20.aar/da03ef3ff2f727f6ab7dce2c625346e2/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/63720028c8563286ba61e23010818c49/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3e5d2787f27cfc415d055fd9f58f65df/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/1b4c27b053ae54f0dd37ce8413321d77/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:3:5-45
+		INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+		INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:8:5-42:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e4638245e984d5bcfcdb7834208810ea/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e4638245e984d5bcfcdb7834208810ea/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/20e1cd157711cdda803b7437e7206692/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/20e1cd157711cdda803b7437e7206692/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3284811a34c57d5c192004ec95ba04a0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3284811a34c57d5c192004ec95ba04a0/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/fc4184ef1561afb428c5e82b967a73ca/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/fc4184ef1561afb428c5e82b967a73ca/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f72facc9ba476bdc21345d3ecf92c7c2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f72facc9ba476bdc21345d3ecf92c7c2/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a1d12b80c68b9fd81bee8b7e4929c37c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a1d12b80c68b9fd81bee8b7e4929c37c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c5437ce9b2de14f28e6dfb7a8db07f9c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c5437ce9b2de14f28e6dfb7a8db07f9c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a61a9e86081ce175d17b5bff698f306b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a61a9e86081ce175d17b5bff698f306b/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3e5d2787f27cfc415d055fd9f58f65df/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3e5d2787f27cfc415d055fd9f58f65df/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/1b4c27b053ae54f0dd37ce8413321d77/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/1b4c27b053ae54f0dd37ce8413321d77/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:12:9-50
+	android:icon
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:14:9-65
+activity#com.serenegiant.usbcameratest4.MainActivity
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:15:9-30:20
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:19:27-74
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:21:13-23:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:22:17-90
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:22:25-87
+intent-filter#android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:24:13-26:29
+action#android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:25:17-90
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:25:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:27:13-29:57
+	android:resource
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:29:17-54
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:28:17-79
+activity#com.serenegiant.usbcameratest4.TakePictureActivity
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:33:9-87
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:33:19-84
+service#com.serenegiant.service.UVCService
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:34:9-41:19
+	android:process
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:36:13-42
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:35:13-62
+intent-filter#com.serenegiant.service.IUVCService+com.serenegiant.service.IUVCSlaveService
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:37:13-40:29
+action#com.serenegiant.service.IUVCService
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:38:17-78
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:38:25-75
+action#com.serenegiant.service.IUVCSlaveService
+ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:39:17-83
+	android:name
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml:39:25-80
+uses-sdk
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e4638245e984d5bcfcdb7834208810ea/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e4638245e984d5bcfcdb7834208810ea/AndroidManifest.xml:21:5-23:78
+MERGED from [:usbCameraCommon] /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraCommon/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-30:41
+MERGED from [:usbCameraCommon] /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraCommon/build/intermediates/manifests/full/debug/AndroidManifest.xml:28:5-30:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/20e1cd157711cdda803b7437e7206692/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/20e1cd157711cdda803b7437e7206692/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3284811a34c57d5c192004ec95ba04a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3284811a34c57d5c192004ec95ba04a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/fc4184ef1561afb428c5e82b967a73ca/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/fc4184ef1561afb428c5e82b967a73ca/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f72facc9ba476bdc21345d3ecf92c7c2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f72facc9ba476bdc21345d3ecf92c7c2/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a1d12b80c68b9fd81bee8b7e4929c37c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a1d12b80c68b9fd81bee8b7e4929c37c/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c5437ce9b2de14f28e6dfb7a8db07f9c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c5437ce9b2de14f28e6dfb7a8db07f9c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a61a9e86081ce175d17b5bff698f306b/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a61a9e86081ce175d17b5bff698f306b/AndroidManifest.xml:21:5-23:61
+MERGED from [:libuvccamera] /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/libuvccamera/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-31:41
+MERGED from [:libuvccamera] /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/libuvccamera/build/intermediates/manifests/full/debug/AndroidManifest.xml:29:5-31:41
+MERGED from [com.serenegiant:common:1.5.20] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/common-1.5.20.aar/da03ef3ff2f727f6ab7dce2c625346e2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.serenegiant:common:1.5.20] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/common-1.5.20.aar/da03ef3ff2f727f6ab7dce2c625346e2/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/63720028c8563286ba61e23010818c49/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/63720028c8563286ba61e23010818c49/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3e5d2787f27cfc415d055fd9f58f65df/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3e5d2787f27cfc415d055fd9f58f65df/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/1b4c27b053ae54f0dd37ce8413321d77/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/1b4c27b053ae54f0dd37ce8413321d77/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e4638245e984d5bcfcdb7834208810ea/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+		INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+		ADDED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+		INJECTED from /home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e4638245e984d5bcfcdb7834208810ea/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3284811a34c57d5c192004ec95ba04a0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/3284811a34c57d5c192004ec95ba04a0/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/fc4184ef1561afb428c5e82b967a73ca/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/fc4184ef1561afb428c5e82b967a73ca/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f72facc9ba476bdc21345d3ecf92c7c2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f72facc9ba476bdc21345d3ecf92c7c2/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a1d12b80c68b9fd81bee8b7e4929c37c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a1d12b80c68b9fd81bee8b7e4929c37c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c5437ce9b2de14f28e6dfb7a8db07f9c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/c5437ce9b2de14f28e6dfb7a8db07f9c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a61a9e86081ce175d17b5bff698f306b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/a61a9e86081ce175d17b5bff698f306b/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/63720028c8563286ba61e23010818c49/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/63720028c8563286ba61e23010818c49/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3e5d2787f27cfc415d055fd9f58f65df/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/3e5d2787f27cfc415d055fd9f58f65df/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/1b4c27b053ae54f0dd37ce8413321d77/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/1b4c27b053ae54f0dd37ce8413321d77/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e4638245e984d5bcfcdb7834208810ea/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/cuizhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e4638245e984d5bcfcdb7834208810ea/AndroidManifest.xml:26:9-47

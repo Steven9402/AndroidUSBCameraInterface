@@ -1,0 +1,3 @@
+include ':libuvccamera'
+include ':usbCameraCommon'
+include ':usbCameraTest4'

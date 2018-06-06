@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string name="camera">カメラ</string>
+    <string name="color_picker_cancel">キャンセル</string>
+    <string msgid="1248663997452044787" name="color_picker_default_title">"色の選択"</string>
+    <string name="color_picker_select">選択</string>
+    <string msgid="2883438431173736180" name="color_swatch_description">"色<ns1:g id="COLOR_INDEX">%1$d</ns1:g>"</string>
+    <string msgid="5020921249944943124" name="color_swatch_description_selected">"色<ns1:g id="COLOR_INDEX">%1$d</ns1:g>を選択しました"</string>
+    <string name="no_device">USBカメラが見つかりません</string>
+    <string name="permission_audio">録音許可がありません。\n音声機能を使用できません。</string>
+    <string name="permission_audio_recording_reason">音声付きで録画するには録音許可が必要です。</string>
+    <string name="permission_audio_recording_request">音声付きで録画するには録音許可が必要です。</string>
+    <string name="permission_audio_streaming_reason">音声付きで配信するには録音許可が必要です。</string>
+    <string name="permission_audio_streaming_request">音声付きで配信するには録音許可が必要です。</string>
+    <string name="permission_camera">内蔵カメラへのアクセス許可がありません。</string>
+    <string name="permission_camera_finish">内蔵カメラへのアクセス許可がありません。\n終了します</string>
+    <string name="permission_camera_reason">内蔵カメラへフォールバックするには内蔵カメラへのアクセス許可が必要です。</string>
+    <string name="permission_camera_request">内蔵カメラへのアクセス許可が必要です</string>
+    <string name="permission_ext_storage">外部ストレージへの書き込み許可がありません。静止画・動画保存できません。</string>
+    <string name="permission_ext_storage_finish">外部ストレージへの書き込みパーミッションがありません。\n終了します。</string>
+    <string name="permission_ext_storage_reason">静止画・動画を保存するには外部ストレージへの書き込み許可が必要です。</string>
+    <string name="permission_ext_storage_request">静止画・動画を保存するには外部ストレージへの書き込み許可が必要です。</string>
+    <string name="permission_location">位置情報へのアクセス許可がありません。</string>
+    <string name="permission_location_finish">位置情報へのアクセス許可がありません。\n終了します。</string>
+    <string name="permission_location_reason">位置情報へのアクセス許可が必要です。</string>
+    <string name="permission_location_request">位置情報へのアクセス許可が必要です。</string>
+    <string name="permission_network">ネットワークへのアクセス許可がありません。</string>
+    <string name="permission_network_finish">ネットワークアクセス許可がありません。\n終了します。</string>
+    <string name="permission_network_reason">ストリーミングを行うにははネットワークへのアクセス許可が必要です。</string>
+    <string name="permission_network_request">ストリーミングを行うにはネットワークへのアクセス許可が必要です。</string>
+    <string name="permission_title">アクセス許可について</string>
+    <string name="refresh">更新</string>
+    <string name="scale_type_inch">インチ</string>
+    <string name="scale_type_mm">ミリ</string>
+    <string name="scale_type_none">無し</string>
+    <string msgid="146198913615257606" name="search_menu_title">"検索"</string>
+    <string name="select">USB Webカメラを選択してください</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

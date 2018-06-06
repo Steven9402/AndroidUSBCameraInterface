@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/usbCameraTest4/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/cuizhou/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/e4638245e984d5bcfcdb7834208810ea/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/home/cuizhou/.gradle/caches/transforms-1/files-1.1/common-1.5.20.aar/da03ef3ff2f727f6ab7dce2c625346e2/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,158",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "103,153,203"
+                    },
+                    "to": {
+                        "startLines": "10,11,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "611,664,714",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "659,709,759"
+                    }
+                }
+            ]
+        }
+    ]
+}

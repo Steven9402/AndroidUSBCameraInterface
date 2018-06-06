@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/cuizhou/AAAA/IntelligentCabinet/OpenCamera/MultiCapClinetServiceTest01/libuvccamera/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/cuizhou/.gradle/caches/transforms-1/files-1.1/common-1.5.20.aar/da03ef3ff2f727f6ab7dce2c625346e2/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,108,158",
+                        "endColumns": "52,49,49",
+                        "endOffsets": "103,153,203"
+                    }
+                }
+            ]
+        }
+    ]
+}
